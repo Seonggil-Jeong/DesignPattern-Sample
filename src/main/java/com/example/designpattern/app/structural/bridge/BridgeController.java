@@ -1,10 +1,6 @@
 package com.example.designpattern.app.structural.bridge;
 
-import com.example.designpattern.app.structural.bridge.model.Bank;
-import com.example.designpattern.app.structural.bridge.model.Building;
-import com.example.designpattern.app.structural.bridge.model.Hospital;
-import com.example.designpattern.app.structural.bridge.model.valueobject.GlassDoor;
-import com.example.designpattern.app.structural.bridge.model.valueobject.SteelDoor;
+import com.example.designpattern.app.structural.bridge.model.*;
 import com.example.designpattern.app.structural.bridge.sample.Abstraction;
 import com.example.designpattern.app.structural.bridge.sample.ConcreateImplementor;
 import com.example.designpattern.app.structural.bridge.sample.RefinedAbstraction;

@@ -1,8 +1,6 @@
 package com.example.designpattern.app.structural.bridge.model;
 
 
-import com.example.designpattern.app.structural.bridge.model.valueobject.Door;
-
 public class Bank implements Building {
     private Door door;
 

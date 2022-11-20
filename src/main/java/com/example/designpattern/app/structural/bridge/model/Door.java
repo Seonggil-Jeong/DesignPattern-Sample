@@ -1,4 +1,4 @@
-package com.example.designpattern.app.structural.bridge.model.valueobject;
+package com.example.designpattern.app.structural.bridge.model;
 
 public abstract class Door {
     private final String doorType;

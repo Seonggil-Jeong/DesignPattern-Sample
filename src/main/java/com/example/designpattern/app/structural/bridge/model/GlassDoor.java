@@ -1,4 +1,4 @@
-package com.example.designpattern.app.structural.bridge.model.valueobject;
+package com.example.designpattern.app.structural.bridge.model;
 
 public class GlassDoor extends Door {
 
